@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://naifuifeu.ucclfunding.org.uk/sitemap.xml
